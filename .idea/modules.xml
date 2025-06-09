@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bar2bar_admin_app1.iml" filepath="$PROJECT_DIR$/bar2bar_admin_app1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/bar2bar_admin_app1_android.iml" filepath="$PROJECT_DIR$/android/bar2bar_admin_app1_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bar2bar_admin_app.iml" filepath="$PROJECT_DIR$/bar2bar_admin_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/bar2bar_admin_app_android.iml" filepath="$PROJECT_DIR$/android/bar2bar_admin_app_android.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-# bar2bar_admin_app1
+# bar2bar_admin_app
 
 A new Flutter project.
 

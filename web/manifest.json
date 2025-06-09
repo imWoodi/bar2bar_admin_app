@@ -1,6 +1,6 @@
 {
-    "name": "bar2bar_admin_app1",
-    "short_name": "bar2bar_admin_app1",
+    "name": "bar2bar_admin_app",
+    "short_name": "bar2bar_admin_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
